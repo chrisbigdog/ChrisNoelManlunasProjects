@@ -1,0 +1,3 @@
+# Chris Noel Manlunas Projects
+
+Welcome to my GitHub repository! Here, I share a collection of my Data Science projects, including a focus on real-world applications like the "Predicting Zomato Restaurant Rating" project. These projects demonstrate my proficiency in data analysis, machine learning, and my ability to leverage Jupyter Notebook for insightful data storytelling. Each project is a testament to my journey in data science, showcasing my skills in extracting meaningful insights from complex datasets. Feel free to explore my work and gain insights into my approach to solving data-driven problems.
